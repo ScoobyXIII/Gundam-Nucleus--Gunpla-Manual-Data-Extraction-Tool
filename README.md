@@ -1,5 +1,5 @@
 Current Status
-v1.0 — Feature Complete (Claude Projects artifact)
+v1.01 — Feature Complete (Claude Projects artifact)
 The tool currently runs as a Claude Projects artifact. Local packaging (Tauri/Electron) is a planned next step.
 What's working
 
